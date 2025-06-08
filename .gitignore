@@ -1,0 +1,8 @@
+## Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+## IDE specific folders
+.vscode
+.idea
