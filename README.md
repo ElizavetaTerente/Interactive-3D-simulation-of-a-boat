@@ -2,7 +2,7 @@
 
 Interactive 3D simulation of a boat featurs realistic water flow and dynamic day/night lighting modes. The boat floats naturally on water and can be controlled using keyboard input. User can freely adjust the camera to view the boat from any angle.
 
-![final](https://github.com/user-attachments/assets/b6262e1f-a91b-457a-be6f-8bb81b091af9)
+![final](https://github.com/user-attachments/assets/c2294493-0737-4be8-9bd5-4c1e530ab63d)
 
 <img width="362" alt="Снимок экрана 2024-01-21 162423" src="https://github.com/user-attachments/assets/2cbf4fb4-4b65-4e58-b586-56d1edbd9f0e" />
 <img width="362" alt="Снимок экрана 2024-01-21 162716" src="https://github.com/user-attachments/assets/8788908b-95d5-4adf-a5ff-80df9123fae7" />
